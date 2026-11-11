@@ -17,14 +17,14 @@ img{max-width:100%; display:block;}
     justify-content:space-between;
     align-items:center;
     padding:15px 5%;
-    background:#111;
+    background:gold;
     position:sticky;
     top:0;
     z-index:100;
 }
 .logo img{width:60px; height:60px; border-radius:50%;}
 .navbar{display:flex; gap:20px;}
-.navbar a{color:blanchedalmond; text-decoration:none;}
+.navbar a{color:rgb(15, 15, 14); text-decoration:none;}
 .hamburger{display:none; color:blanchedalmond; font-size:28px; cursor:pointer;}
 
 /* HERO */
