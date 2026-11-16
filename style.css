@@ -160,3 +160,70 @@ footer{text-align:center; padding:20px; color:#666; border-top:1px solid #222;}
     margin: 0 auto !important;
     display: inline-block !important;
 }
+/*<div class="service-card">
+
+    <img src="images/skin-fade.jpg" alt="Skin Fade">
+
+    <h3>Skin Fade</h3>
+
+    <p>⏱ 25 mins</p>
+
+    <p class="price">₦5,000</p>
+
+    <button>Book Now</button>
+
+</div>
+
+
+/* Put everything inside a visible box */
+.service-card {
+    background-color: #1c1c1c;
+    border: 1px solid #333;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+/* Image inside the box */
+.service-card img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+/* Service name */
+.service-card h3 {
+    color: white;
+}
+
+/* Time */
+.service-card .duration {
+    color: white;
+}
+
+/* Price */
+.service-card .price-big {
+    color: #d4a000;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* Description */
+.service-card ul {
+    color: white;
+    text-align: left;
+}
+
+/* Book Now button */
+.service-card .btn-small {
+    display: inline-block;
+    border: 1px solid #d4a000;
+    color: #d4a000;
+    padding: 10px 20px;
+    border-radius: 7px;
+    text-decoration: none;
+}
